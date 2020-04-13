@@ -1,1 +1,1 @@
-# -Python
+# -Python Snake in Pygame
